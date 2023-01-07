@@ -1,3 +1,4 @@
+// Type Declaration Instruction
 #include<stdio.h>
 int main() {
     
