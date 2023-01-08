@@ -1,4 +1,4 @@
-// WAP a program to calculate thr age 
+// WAP a program to calculate the age 
  #include<stdio.h>
  int main ()
  {
